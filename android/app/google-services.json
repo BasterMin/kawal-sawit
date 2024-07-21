@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "764590432915",
+    "project_id": "kawal-sawit",
+    "storage_bucket": "kawal-sawit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764590432915:android:a2c773594653a700d4e366",
+        "android_client_info": {
+          "package_name": "kawal_sawit.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5iSQEz39tJZS9Xjixkfc3FWngU43F600"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
